@@ -3,13 +3,8 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
-<<<<<<< HEAD
          "identifier":"brasileirao2020j36",
          "name":"vs Vasco",
-=======
-         "identifier":"brasileirao2020j33",
-         "name":"vs Bragantino",
->>>>>>> 54fde2c93649ed4b6fda19c9e01b9d5ed4b68b00
          "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -103,8 +98,105 @@
                "emojis":[
                   
                ]
-<<<<<<< HEAD
-=======
+            }
+         ]
+      },
+      {
+         "identifier":"brasileirao2020j33",
+         "name":"vs Bragantino",
+         "publisher":"Ant Space",
+         "tray_image_file":"tray.png",
+         "publisher_website":"",
+         "publisher_email":"ant.space.soft@gmail.com",
+         "privacy_policy_website":"",
+         "license_agrement_website":"",
+         "image_data_version":"1",
+         "avoid_cache":false,
+         "isAnimated":false,
+         "stickers":[
+            {
+               "image_file":"1.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"2.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"3.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"4.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"5.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"6.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"7.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"8.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"9.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"10.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"11.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"12.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"13.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"14.webp",
+               "emojis":[
+                  
+               ]
             },
             {
                "image_file":"15.webp",
@@ -117,7 +209,6 @@
                "emojis":[
                   
                ]
->>>>>>> 54fde2c93649ed4b6fda19c9e01b9d5ed4b68b00
             }
          ]
       },
