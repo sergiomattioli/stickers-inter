@@ -3,8 +3,13 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+<<<<<<< HEAD
          "identifier":"brasileirao2020j36",
          "name":"vs Vasco",
+=======
+         "identifier":"brasileirao2020j33",
+         "name":"vs Bragantino",
+>>>>>>> 54fde2c93649ed4b6fda19c9e01b9d5ed4b68b00
          "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -98,6 +103,21 @@
                "emojis":[
                   
                ]
+<<<<<<< HEAD
+=======
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"16.webp",
+               "emojis":[
+                  
+               ]
+>>>>>>> 54fde2c93649ed4b6fda19c9e01b9d5ed4b68b00
             }
          ]
       },
